@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Portfolio Banner](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
+
 
 A modern, futuristic portfolio website featuring cutting-edge design, smooth animations, and AI-powered chat functionality.
 
@@ -185,14 +185,7 @@ The AI chat functionality is configured in `services/geminiService.ts`. You can 
 
 ## 🌐 Deployment
 
-### Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/jayanth-kumar-future-tech-portfolio)
-
-1. Push your code to GitHub
-2. Import your repository to Vercel
-3. Add `VITE_GEMINI_API_KEY` to environment variables
-4. Deploy!
 
 ### Deploy to Netlify
 
@@ -205,13 +198,7 @@ The AI chat functionality is configured in `services/geminiService.ts`. You can 
 5. Add environment variable: `VITE_GEMINI_API_KEY`
 6. Deploy!
 
-### Other Platforms
 
-The portfolio can be deployed to any static hosting service that supports Vite:
-- GitHub Pages
-- Cloudflare Pages
-- Firebase Hosting
-- AWS Amplify
 
 ---
 
@@ -236,13 +223,10 @@ The portfolio can be deployed to any static hosting service that supports Vite:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/YOUR_USERNAME/jayanth-kumar-future-tech-portfolio/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Jayanthkumar73/jayanth-kumar-future-tech-portfolio/issues).
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
@@ -251,8 +235,8 @@ This project is open source and available under the [MIT License](LICENSE).
 **Jayanth Kumar**
 
 - Portfolio: [Your Portfolio URL](#)
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: [@YOUR_USERNAME](https://github.com/Jayanthkumar73)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/s-jayanth-kumar/)
 - Email: your.email@example.com
 
 ---
@@ -266,11 +250,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 📸 Screenshots
 
-> Add screenshots of your portfolio here to showcase the design
-
----
 
 <div align="center">
 
