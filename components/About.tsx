@@ -18,7 +18,7 @@ export const About: React.FC = () => {
                     <div className="absolute inset-0 bg-gradient-to-r from-neon-cyan to-neon-purple rounded-full blur-xl opacity-50 group-hover:opacity-75 transition-opacity duration-500 animate-pulse"></div>
                     {/* Image */}
                     <img
-                      src="public/image1.jpeg"
+                      src="image1.jpeg"
                       alt="Jayanth Kumar"
                       className="relative w-full h-full object-cover rounded-full border-4 border-white/20 shadow-2xl group-hover:scale-105 transition-transform duration-500"
                     />
